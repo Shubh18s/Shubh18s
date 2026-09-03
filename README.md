@@ -8,5 +8,4 @@ that opens sockets instead of reading config.
 
 Write-up: [I Never Walked Away From My Agent. That Was the Problem.](https://medium.com/@singh18shubhdeep/i-never-walked-away-from-my-agent-that-was-the-problem-3ff2194a3960)
 
-Currently building distributed training and container platform infrastructure.
-Before that, data engineering in healthcare and data science in banking.
+Before - data engineering in healthcare and data science in banking.
